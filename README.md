@@ -12,7 +12,7 @@
 | Juan Esteban Romero Mosquera | 82202524107 |
 
 **Docente:** Natalia Marcela Castellano Gomez
-**Fecha de entrega:** __/__/2026
+**Fecha de entrega:** 09/11/2026
 
 ---
 
