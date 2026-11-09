@@ -183,7 +183,7 @@ En `main.py` (sección 8) cada una se captura con `try/except`, se muestra el me
 |--------|---------|
 | **Herramienta utilizada** | Claude (Anthropic), mediante Claude Code |
 | **Fecha de uso** | 09/11/2026 |
-| **Propósito** | Apoyo en la propuesta del dominio y de las clases, generación del código, del diagrama UML y redacción de la documentación. |
+| **Propósito** | Apoyo en la propuesta del dominio y de las clases, generación del código, del diagrama UML y redacción de la documentación. También se usó como tutor para explicar los conceptos que no estaban claros (clase abstracta, composición frente a herencia, polimorfismo, excepciones) y para preparar la sustentación del proyecto. |
 | **Revisión humana** | El autor revisó, ejecutó y comprendió el código, y verificó que cumpliera cada requerimiento del enunciado. |
 
 El autor declara que comprende el funcionamiento de todo el código entregado, que puede explicarlo y sustentarlo, y que asume la responsabilidad total por el contenido de esta entrega.
